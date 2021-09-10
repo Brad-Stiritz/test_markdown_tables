@@ -5,8 +5,8 @@ Just to test a bit tables in markdown to include after into the OceanGliders Oxy
 |---|---|---|---|---|---|---|---|
 | Aanderaa 3835, 4330, 4330F, 4831, 4831F and 5013 optodes  | X |   | X | X |   |   | Link |
 | RINKO-II  | X |   |   |   |   |  |   |
-| RINKO- AROD FT  |   |   |   |   |   | X  |   |
-| SBE 43 and 43F  |   |   |   |   |   |   |   |
-| SBE 63  |   |   |   |   |   |   |   |
-|  RBRcoda T.ODO |   |   |   |   |   |   |   |
-|  Contros Hydroflash (1) |   |   |   |   |   |   |   |
+| RINKO- AROD FT  |   |   |   |   | X |   |   |
+| SBE 43 and 43F  |   | X | X |   | X |   |   |
+| SBE 63  |   |   |   |   |   | X |   |
+|  RBRcoda T.ODO |   |   |   |   | X |   |   |
+|  Contros Hydroflash (1) |   |   | X |   |   |   |   |
